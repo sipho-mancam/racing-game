@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1598416661 source:c:\users\sthembiso musana\documents\esg\learnc101\racinggame\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"ESD.h"
+
+1596600760 c:\users\sthembiso musana\documents\esg\learnc101\racinggame\esd.h
+	<windows.h>
+
+1623750962 source:d:\documents\esg\learnc101\racinggame\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"ESD.h"
+
+1596600760 d:\documents\esg\learnc101\racinggame\esd.h
+	<windows.h>
+
+1670743689 source:c:\users\sthembiso musana\documents\programming\c-and-cpp\racinggame\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"ESD.h"
+
+1670743689 c:\users\sthembiso musana\documents\programming\c-and-cpp\racinggame\esd.h
+	<windows.h>
+
